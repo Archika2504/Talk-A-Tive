@@ -143,6 +143,10 @@ The application will run on:
 * Message reactions
 * Online/offline presence tracking
 
+# Talk-A-Tive
+
+Live Demo: https://talk-a-tive-0sgy.onrender.com
+
 ## 🤝 Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit a pull request.
